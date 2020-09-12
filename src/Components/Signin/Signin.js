@@ -83,8 +83,7 @@ class Signin extends React.Component{
                         </div>
                     </div>
                 </main>
-            </article>    
-            
+            </article>      
         
         
                     )
