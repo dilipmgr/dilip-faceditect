@@ -1,6 +1,6 @@
 import React from 'react';
 import './Imagelinkform.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 
 function ImageLinkForm({onInputChange,onButtonSubmit}) {
   return (
